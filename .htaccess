@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^crm\.emglobalbposervices\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.crm\.emglobalbposervices\.com$
+RewriteRule ^/?$ "https\:\/\/crm\.emglobalbposervices\.com\/leadscrm\/" [R=301,L]
+

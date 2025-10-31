@@ -1,0 +1,7 @@
+/home/emglavox/crm.emglobalbposervices.com/
+├── index.php
+├── .htaccess
+└── leadscrm/
+    ├── config/
+    │   └── db.php        ← paste file #1 below
+    ├── ...

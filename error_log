@@ -1,0 +1,18 @@
+[28-Oct-2025 02:37:44 UTC] PHP Warning:  require_once(/home/emglavox/crm.emglobalbposervices.com/Dashboards/../config/db.php): Failed to open stream: No such file or directory in /home/emglavox/crm.emglobalbposervices.com/Dashboards/admin_dashboard.php on line 5
+[28-Oct-2025 02:37:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/emglavox/crm.emglobalbposervices.com/Dashboards/../config/db.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/emglavox/crm.emglobalbposervices.com/Dashboards/admin_dashboard.php:5
+Stack trace:
+#0 /home/emglavox/crm.emglobalbposervices.com/debug_scan.php(53): include()
+#1 {main}
+  thrown in /home/emglavox/crm.emglobalbposervices.com/Dashboards/admin_dashboard.php on line 5
+[28-Oct-2025 14:03:26 UTC] PHP Warning:  require_once(/home/emglavox/crm.emglobalbposervices.com/Dashboards/../config/db.php): Failed to open stream: No such file or directory in /home/emglavox/crm.emglobalbposervices.com/Dashboards/admin_dashboard.php on line 5
+[28-Oct-2025 14:03:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/emglavox/crm.emglobalbposervices.com/Dashboards/../config/db.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/emglavox/crm.emglobalbposervices.com/Dashboards/admin_dashboard.php:5
+Stack trace:
+#0 /home/emglavox/crm.emglobalbposervices.com/debug_scan.php(53): include()
+#1 {main}
+  thrown in /home/emglavox/crm.emglobalbposervices.com/Dashboards/admin_dashboard.php on line 5
+[28-Oct-2025 14:04:00 UTC] PHP Warning:  require_once(/home/emglavox/crm.emglobalbposervices.com/Dashboards/../config/db.php): Failed to open stream: No such file or directory in /home/emglavox/crm.emglobalbposervices.com/Dashboards/admin_dashboard.php on line 5
+[28-Oct-2025 14:04:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/emglavox/crm.emglobalbposervices.com/Dashboards/../config/db.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/emglavox/crm.emglobalbposervices.com/Dashboards/admin_dashboard.php:5
+Stack trace:
+#0 /home/emglavox/crm.emglobalbposervices.com/debug_scan.php(53): include()
+#1 {main}
+  thrown in /home/emglavox/crm.emglobalbposervices.com/Dashboards/admin_dashboard.php on line 5
